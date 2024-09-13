@@ -48,15 +48,14 @@ Here are a few exciting projects that I’ve worked on:
 
 ### 📝 [Todo App](https://github.com/vishnubaalan/todo-app)
 
-![Todo App GIF](https://media.giphy.com/media/j5pVz6wmweb0k/giphy.gif)
 
 A simple yet efficient **Todo App** built using **React**. It helps users manage tasks with features like adding, editing, and deleting tasks, all in an intuitive user interface.
 
 ### 🌐 [Portfolio](https://github.com/vishnubaalan/portfolio)
 
-![Portfolio GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-My personal portfolio showcasing my journey, skills, and projects. Designed with **React** and **Tailwind CSS**, it highlights my web development expertise.
+
+My personal portfolio showcasing my journey, skills, and projects. Designed with **HTML**, **CSS** and **JS**, it highlights my web development expertise.
 
 ### ⛅ [Weather Prediction App](https://github.com/vishnubaalan/weather-app)
 
